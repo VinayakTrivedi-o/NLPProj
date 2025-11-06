@@ -1,0 +1,17 @@
+# Web interface
+streamlit>=1.28.0
+
+# PDF processing
+pdfplumber>=0.10.0
+
+# Extractive summarization
+sentence-transformers>=2.2.2
+numpy>=1.24.0
+nltk>=3.8.1
+scikit-learn>=1.0
+
+# Abstractive summarization
+transformers>=4.35.0
+torch>=2.1.0
+
+# Note: Some packages may have additional dependencies that will be installed automatically
